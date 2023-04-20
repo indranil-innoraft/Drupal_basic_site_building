@@ -1,0 +1,10 @@
+ .field-item {
+ 	font-size:22px;
+ }	
+ #heading-text {
+ 	color:blue;
+ }
+ 
+  #heading-text em {
+  	color:rgb(153, 18, 126);
+  }
