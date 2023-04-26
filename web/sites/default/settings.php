@@ -825,3 +825,7 @@ $databases['default']['default'] = array (
   'autoload' => 'core/modules/mysql/src/Driver/Database/mysql/',
 );
 $settings['config_sync_directory'] = 'sites/default/files/config_se3PY3rlkC7cbDm5Qrgl0Qvmlomb6T56HNiW052NwXSOP3rrndQGQtxDW3xJqWr3U40QnfdOBw/sync';
+$settings['config_sync_directory'] = 'sites/default/files/config_vYIsjQdnqGa5ltqXXlwjzmCFSHsuPsi0iyhGJ-rse873NxRtgr92C3TH8WVjAn6f9jFlnoku-g/sync';
+$settings['trusted_host_patterns'] = [
+  '^drupal_project_1.com$',
+];
